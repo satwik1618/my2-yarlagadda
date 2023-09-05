@@ -14,3 +14,6 @@ it is my favorite spot because it is my hometown.it is in **chirala**.There are 
 - Fish
 - Prawns
 - Crab
+
+
+https://github.com/satwik1618/my2-yarlagadda/blob/main/MyStats.md
